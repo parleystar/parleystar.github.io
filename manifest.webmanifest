@@ -1,0 +1,44 @@
+{
+    "name": "ParleyStar live stream browser extension for better chatting experience",
+    "short_name": "ParleyStar 2025",
+    "icons": [
+        {
+            "src": "/icon.svg",
+            "type": "image/svg+xml",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+
+    "start_url": "/",
+    "scope": "/",
+
+      "description": "ParleyStar live stream browser extension for better chatting experience",
+      "screenshots": [
+        {
+          "src": "/narrow.png",
+          "type": "image/png",
+          "sizes": "540x720",
+          "form_factor": "narrow"
+        },
+        {
+          "src": "/wide.png",
+          "type": "image/png",
+          "sizes": "720x540",
+          "form_factor": "wide"
+        }
+      ],
+
+    "theme_color": "#daa520",
+    "background_color": "#daa520",
+    "display": "standalone"
+}
